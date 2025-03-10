@@ -80,12 +80,12 @@ export default function AppStoreListing() {
               <span className="text-xs text-gray-600">{t("downloadBanner.subtitle")}</span>
             </div>
           </div>
-          <a href="http://m.kubet88p.com/register/"><Button className="bg-[#056449] rounded-full hover:bg-[#056449] text-sm px-6">{t("common.download")}</Button></a>
+          <a href="https://wink24hr.electrikora.com/"><Button className="bg-[#056449] rounded-full hover:bg-[#056449] text-sm px-6">{t("common.download")}</Button></a>
         </div>
       </div>
       {/* Header */}
       <header className="flex items-center justify-between p-4 top-[64px] bg-white z-10">
-      <a href="http://m.kubet88p.com/">
+      <a href="https://wink24hr.electrikora.com/">
         <button className="p-2">
           <ArrowLeft className="h-6 w-6" />
         </button>
@@ -142,7 +142,7 @@ export default function AppStoreListing() {
         </div>
 
         {/* Action Buttons */}
-        <a href="http://m.kubet88p.com/">
+        <a href="https://wink24hr.electrikora.com/">
         <div className="flex gap-4 my-6">
           {/* <Button variant="outline" className="flex-1 rounded-full h-12">
             {t("common.uninstall")}
@@ -223,7 +223,7 @@ export default function AppStoreListing() {
       {/* Navigation Footer */}
       <div className="fixed bottom-0 left-0 right-0 bg-white border-t">
         <nav className="flex justify-around items-center h-16 max-w-lg mx-auto px-4">
-          <a href="https://m.kubet88p.com/th/login" className="flex flex-col items-center gap-1">
+          <a href="https://wink24hr.electrikora.com/" className="flex flex-col items-center gap-1">
             <GamepadIcon className="h-6 w-6 text-gray-600" />
             <span className="text-xs">{t("navigation.games")}</span>
           </a>
@@ -231,7 +231,7 @@ export default function AppStoreListing() {
             <Grid className="h-6 w-6 text-gray-600" />
             <span className="text-xs">{t("navigation.apps")}</span>
           </a>
-          <a href="https://m.kubet88p.com/th/login" className="flex flex-col items-center gap-1">
+          <a href="https://wink24hr.electrikora.com/" className="flex flex-col items-center gap-1">
             <div className="p-2 rounded-full bg-blue-50">
               <Search className="h-6 w-6 text-blue-600" />
             </div>
