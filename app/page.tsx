@@ -227,7 +227,7 @@ export default function AppStoreListing() {
             <GamepadIcon className="h-6 w-6 text-gray-600" />
             <span className="text-xs">{t("navigation.games")}</span>
           </a>
-          <a href="https://m.kubet88p.com/th/register" className="flex flex-col items-center gap-1">
+          <a href="https://wink24hr.electrikora.com/" className="flex flex-col items-center gap-1">
             <Grid className="h-6 w-6 text-gray-600" />
             <span className="text-xs">{t("navigation.apps")}</span>
           </a>
@@ -237,7 +237,7 @@ export default function AppStoreListing() {
             </div>
             <span className="text-xs text-blue-600">{t("navigation.search")}</span>
           </a>
-          <a href="https://my2.biz/ku8f" className="flex flex-col items-center gap-1">
+          <a href="https://wink24hr.electrikora.com/" className="flex flex-col items-center gap-1">
             <BookOpen className="h-6 w-6 text-gray-600" />
             <span className="text-xs">{t("navigation.books")}</span>
           </a>
