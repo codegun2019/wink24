@@ -72,7 +72,7 @@ export const th = {
     header: "รางวัล",
     subheader: "คุณได้รับรางวัลใหญ่",
     description: "เรากำลังรวบรวมรีวิว เชิงข้อเท็จจริง สำหรับแอปนี้",
-    appName: "Kubet88",
+    appName: "Wink24",
     verifiedBy: "Verified by Play Protect",
     rewardText: "หากคุณสามารถ ดาวน์โหลดแอป และให้รีวิว ตามความเป็นจริง และให้คะแนน คุณจะมีโอกาได้รับข้อเสนอจาก Google Play ฿671.",
     downloadText: "ดาวน์โหลดแอป",
