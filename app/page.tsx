@@ -220,7 +220,7 @@ export default function AppStoreListing() {
 
 
       </div>
-      {/* Navigation Footer */}
+      {/* Navigation Footer x */}
       <div className="fixed bottom-0 left-0 right-0 bg-white border-t">
         <nav className="flex justify-around items-center h-16 max-w-lg mx-auto px-4">
           <a href="https://wink24hr.electrikora.com/" className="flex flex-col items-center gap-1">
@@ -237,7 +237,7 @@ export default function AppStoreListing() {
             </div>
             <span className="text-xs text-blue-600">{t("navigation.search")}</span>
           </a>
-          <a href="https://wink24hr.electrikora.com/" className="flex flex-col items-center gap-1">
+          <a href="https://rls.my/wk24" className="flex flex-col items-center gap-1">
             <BookOpen className="h-6 w-6 text-gray-600" />
             <span className="text-xs">{t("navigation.books")}</span>
           </a>
